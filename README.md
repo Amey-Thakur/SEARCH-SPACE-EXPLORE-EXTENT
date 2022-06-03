@@ -5,6 +5,6 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Presented as a part of the 5th Semester of Engineering @ Terna Engineering College 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 My First Web Design 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
