@@ -1,4 +1,5 @@
 # SEARCH-SPACE-EXPLORE-EXTENT
+
  👉🏻 It is a simple Web Design in HTML and CSS.
 
  - **[Surf The Website!](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT) - MY FIRST WEB DESIGN**
@@ -19,4 +20,4 @@
 
 <p align="center"> <b> 👉🏻 My First Web Design 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
