@@ -58,11 +58,6 @@
 
 The project explores themes of astronomy and galactic exploration, utilizing a dark-themed aesthetic with cosmic imagery, vibrant accents, and smooth interactive elements to enhance the user experience.
 
-> [!IMPORTANT]
-> **Historical Significance**
->
-> This repository is preserved as a "side quest" in my technical portfolio, serving as a baseline for my evolution in full-stack engineering. It demonstrates the transition from theoretical learning to the implementation of functional, aesthetically-driven web interfaces.
-
 > [!TIP]
 > **Design Consistency**
 >
