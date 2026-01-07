@@ -166,16 +166,17 @@ SEARCH-SPACE-EXPLORE-EXTENT/
 ---
 
 <!-- USAGE -->
-<a name="usage-guidelines"></a>
 ## Usage Guidelines
 
-**For Students**
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
 Use this project as a reference for foundational web design, CSS layout techniques, and the organization of static web artifacts. It serves as a practical example of a "First Project" workflow.
 
-**For Educators**
+**For Educators**  
 This project may be used as a supplementary resource for teaching introductory Web Technologies or Human-Computer Interaction basics. Attribution to the project curator is requested.
 
-**For Researchers**
+**For Researchers**  
 The technical specification and metadata provide context for the evolution of student projects and the adoption of modern archival standards for early-career artifacts.
 
 ---
