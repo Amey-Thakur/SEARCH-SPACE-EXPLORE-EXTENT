@@ -78,6 +78,12 @@ The project explores themes of astronomy and galactic exploration, utilizing a d
 | **Data Fact-sheets** | Organized presentation of astronomical facts using structured tables. |
 | **Integrated Media** | Embedded interactive maps and media assets for regional context. |
 
+### Tech Stack
+- **Languages**: HTML5, CSS3
+- **Design System**: Vanilla CSS (Custom Responsive Grid & Flexbox)
+- **Hosting**: GitHub Pages
+- **Deployment**: GitHub Actions (Staging Workflow)
+
 ---
 
 <!-- STRUCTURE -->
