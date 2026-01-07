@@ -1,0 +1,37 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "Search Space | Explore Extent",
+    "description": "A simple Web Design implementation exploring the themes of space and the galaxy, featuring responsive HTML and CSS layouts.",
+    "identifier": "SEARCH-SPACE-EXPLORE-EXTENT",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateReleased": "2021-07-04",
+    "codeRepository": "https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT",
+    "developmentStatus": "complete",
+    "applicationCategory": "Web Design / Computer Science",
+    "keywords": [
+        "Web Design",
+        "HTML",
+        "CSS",
+        "Space Exploration",
+        "Galaxy",
+        "First Web Design Project"
+    ]
+}
