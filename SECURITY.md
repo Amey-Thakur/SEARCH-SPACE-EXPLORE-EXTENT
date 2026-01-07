@@ -29,7 +29,7 @@ Submissions include:
 
 This project is implemented using HTML5 and CSS3, as defined by the project’s technical scope.
 
--   **Execution Environment**: Execution occurs within standard standards-compliant web browsers.
+-   **Execution Environment**: Execution occurs within standards-compliant web browsers.
 -   **Scope Limitation**: This policy applies exclusively to the source code and academic materials contained within this repository and does not extend to the underlying web server engines, hosting platforms, or browser-level security guarantees.
 
 ## Technical Integrity Statement
