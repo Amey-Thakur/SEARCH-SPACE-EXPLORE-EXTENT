@@ -1,167 +1,203 @@
-body{
+/*
+  =========================================================================================
+  Project Name    : SEARCH-SPACE-EXPLORE-EXTENT
+  Description     : Primary Design System and Layout Stylesheet. 
+                    Implements a responsive grid-based architecture with cosmic aesthetics.
+  Author          : Amey Thakur
+  GitHub Profile  : https://github.com/Amey-Thakur
+  Repository Link : https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT
+  Date            : July 4, 2021
+  =========================================================================================
+*/
+
+/* --- Base Typography & Reset --- */
+body {
   font: 15px/1.5 cursive;
-  padding:0;
-  margin:0;
-  background-color:#cfcfcf;
+  padding: 0;
+  margin: 0;
+  background-color: #cfcfcf;
+  /* Neutral background for contrast */
 }
 
-ul{
-  margin:0;
-  padding:0;
+ul {
+  margin: 0;
+  padding: 0;
 }
 
-/* Global */
-.container{
-  width:80%;
-  margin:auto;
-  overflow:hidden;
+/* --- Global Layout Utilities --- */
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
 }
 
-.button_1{
-  height:38px;
-  background:#263dd4;
-  border:0;
+/* Primary Action Button */
+.button_1 {
+  height: 38px;
+  background: #263dd4;
+  border: 0;
   padding-left: 20px;
-  padding-right:20px;
-  color:#ffffff;
+  padding-right: 20px;
+  color: #ffffff;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
 }
 
-.dark{
-  padding:15px;
-  background:#000000;
-  color:#ffffff;
-  margin-top:10px;
-  margin-bottom:10px;
+.button_1:hover {
+  opacity: 0.8;
 }
 
-/* Header **/
-header{
-  background:#000000;
-  color:#ffffff;
-  padding-top:30px;
-  min-height:70px;
-  border-bottom:#263dd4 3px solid;
+/* Dark Section Utility */
+.dark {
+  padding: 15px;
+  background: #000000;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-header a{
-  color:#ffffff;
-  text-decoration:none;
+/* --- Header & Global Navigation --- */
+header {
+  background: #000000;
+  color: #ffffff;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #263dd4 3px solid;
+}
+
+header a {
+  color: #ffffff;
+  text-decoration: none;
   text-transform: uppercase;
-  font-size:16px;
+  font-size: 16px;
 }
 
-header li{
-  float:left;
+header li {
+  float: left;
   display: inline;
-  padding: 0 20px 0 20px;
+  padding: 0 20px;
 }
 
-header #branding{
-  float:left;
+/* Logo / Branding Positioning */
+header #branding {
+  float: left;
 }
 
-header #branding h1{
-  margin:0;
+header #branding h1 {
+  margin: 0;
 }
 
-header nav{
-  float:right;
-  margin-top:10px;
+header nav {
+  float: right;
+  margin-top: 10px;
 }
 
-header .highlight, header .current a{
+/* Navigation State & Accents */
+header .highlight,
+header .current a {
   color: #263dd4;
   font-weight: bold;
 }
 
-header a:hover{
-  color:#263dd4;
-  font-weight:bold;
+header a:hover {
+  color: #263dd4;
+  font-weight: bold;
 }
 
-/* Showcase */
-#showcase{
-  min-height:400px;
-  background:url('../img/showcase.jpg')no-repeat 0 -400px;
-  text-align:center;
-  color:#ffffff;
+/* --- Hero Showcase Section --- */
+#showcase {
+  min-height: 400px;
+  background: url('../img/showcase.jpg') no-repeat 0 -400px;
+  text-align: center;
+  color: #ffffff;
 }
 
-#showcase h1{
-  margin-top:100px;
-  font-size:55px;
-  margin-bottom:10px;
+#showcase h1 {
+  margin-top: 100px;
+  font-size: 55px;
+  margin-bottom: 10px;
 }
 
-#showcase p{
-  font-size:20px;
+#showcase p {
+  font-size: 20px;
 }
 
-/* Newsletter */
-#newsletter{
-  padding:15px;
-  color:#ffffff;
-  background:#000000
+/* --- Engagement Section (Newsletter) --- */
+#newsletter {
+  padding: 15px;
+  color: #ffffff;
+  background: #000000;
 }
 
-#newsletter h1{
-  float:left;
+#newsletter h1 {
+  float: left;
 }
 
 #newsletter form {
-  float:right;
-  margin-top:15px;
+  float: right;
+  margin-top: 15px;
 }
 
-#newsletter input[type="email"]{
-  padding:4px;
-  height:25px;
-  width:250px;
+#newsletter input[type="email"] {
+  padding: 4px;
+  height: 25px;
+  width: 250px;
 }
 
-/* Boxes */
-#boxes{
-  margin-top:20px;
+/* --- Modular Feature Grid (Home) --- */
+#boxes {
+  margin-top: 20px;
 }
 
-#boxes .box{
-  float:left;
+#boxes .box {
+  float: left;
   text-align: center;
-  width:30%;
-  padding:10px;
+  width: 30%;
+  padding: 10px;
 }
 
-/* Sidebar */
-aside#sidebar{
-  float:left;
-  width:30%;
-  margin-top:10px;
+#boxes .box img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
-aside#sidebar .quote input, aside#sidebar .quote textarea{
-  width:90%;
-  padding:5px;
+/* --- Page Specific Layouts --- */
+
+/* Sidebar Navigation/Contacts */
+aside#sidebar {
+  float: left;
+  width: 30%;
+  margin-top: 10px;
 }
 
-/* Main-col */
-article#main-col{
-  float:left;
-  width:65%;
+aside#sidebar .quote input,
+aside#sidebar .quote textarea {
+  width: 90%;
+  padding: 5px;
 }
 
-/* Services */
-ul#services li{
+/* Main Content Column */
+article#main-col {
+  float: left;
+  width: 65%;
+}
+
+/* Informational Lists (Services/Facts) */
+ul#services li {
   list-style: none;
-  padding:20px;
+  padding: 20px;
   border: #cccccc solid 1px;
-  margin-bottom:5px;
-  background:#e6e6e6;
+  margin-bottom: 5px;
+  background: #e6e6e6;
 }
 
-footer{
-  padding:20px;
-  margin-top:20px;
-  color:#ffffff;
-  background-color:#263dd4;
+/* --- Global Footer --- */
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  color: #ffffff;
+  background-color: #263dd4;
   text-align: center;
 }
