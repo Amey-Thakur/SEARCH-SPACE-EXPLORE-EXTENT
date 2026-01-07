@@ -179,7 +179,7 @@ Use this project as a reference for foundational web design, CSS layout techniqu
 This project may be used as a supplementary resource for teaching introductory Web Technologies or Human-Computer Interaction basics. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
-The technical specification and metadata provide context for the evolution of student projects and the adoption of modern archival standards for early-career artifacts.
+The technical specification and metadata provide insights into the implementation of foundational web design architectures and their practical application in cosmic-themed responsive layouts.
 
 ---
 
@@ -209,11 +209,7 @@ This project features the **Search Space**, a web application developed during m
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
----
-
-<!-- ACKNOWLEDGMENTS -->
-<a name="acknowledgments"></a>
-## Acknowledgments
+### Acknowledgments
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 
