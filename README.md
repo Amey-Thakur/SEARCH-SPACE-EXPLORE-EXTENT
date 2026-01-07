@@ -81,8 +81,8 @@ The project explores themes of astronomy and galactic exploration, utilizing a d
 ### Tech Stack
 - **Languages**: HTML5, CSS3
 - **Design System**: Vanilla CSS (Custom Responsive Grid & Flexbox)
-- **Hosting**: GitHub Pages
 - **Deployment**: GitHub Actions (Staging Workflow)
+- **Hosting**: GitHub Pages
 
 ---
 
@@ -176,7 +176,7 @@ This repository is openly shared to support learning and knowledge exchange acro
 Use this project as a reference for foundational web design, CSS layout techniques, and the organization of static web artifacts. It serves as a practical example of a "First Project" workflow.
 
 **For Educators**  
-This project may be used as a supplementary resource for teaching introductory Web Technologies or Human-Computer Interaction basics. Attribution to the project curator is requested.
+This project may be used as a supplementary resource for teaching introductory Web Technologies or Human-Computer Interaction basics. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
 The technical specification and metadata provide context for the evolution of student projects and the adoption of modern archival standards for early-career artifacts.
@@ -192,7 +192,7 @@ This repository and all its creative and technical assets are made available und
 > [!NOTE]
 > **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-Copyright © 2021 [Amey Thakur](https://github.com/Amey-Thakur)
+Copyright © 2021 Amey Thakur
 
 ---
 
@@ -205,7 +205,7 @@ Copyright © 2021 [Amey Thakur](https://github.com/Amey-Thakur)
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository is maintained as a permanent technical record of my early explorations in web design. It highlights the use of vanilla HTML/CSS to build interactive, themed digital experiences.
+This project features the **Search Space**, a web application developed during my early explorations in web design. It showcases the use of vanilla HTML/CSS to build interactive, themed digital experiences.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
@@ -227,7 +227,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   <br>
 
-  🌌 **[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)**
+  🔬 **[Web Designing Laboratory](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB)** &nbsp;·&nbsp; 🌌 **[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)**
 
   ---
 
