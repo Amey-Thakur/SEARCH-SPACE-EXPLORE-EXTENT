@@ -30,7 +30,7 @@
 
   ## Author
 
-  **Terna Engineering College | Computer Engineering | Batch of 2022**
+
 
   <table>
   <tr>
@@ -54,7 +54,7 @@
 <a name="overview"></a>
 ## Overview
 
-**Search Space | Explore Extent** represents a pivotal milestone as my **First Web Design Project**. Developed during the early phases of my engineering journey, this project focuses on the practical application of core web technologies—HTML5 and CSS3—to create a visually engaging and responsive multi-page website.
+**Search Space | Explore Extent** represents a pivotal milestone as my **First Web Design Project**. Developed during the early phases of my engineering journey, this project focuses on the practical application of core web technologies, HTML5 and CSS3, to create a visually engaging and responsive multi-page website.
 
 The project explores themes of astronomy and galactic exploration, utilizing a dark-themed aesthetic with cosmic imagery, vibrant accents, and smooth interactive elements to enhance the user experience.
 
