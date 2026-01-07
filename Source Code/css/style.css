@@ -11,8 +11,12 @@
 */
 
 /* --- Base Typography & Reset --- */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  font: 15px/1.5 cursive;
+  font: 15px/1.6 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   padding: 0;
   margin: 0;
   background-color: #cfcfcf;
