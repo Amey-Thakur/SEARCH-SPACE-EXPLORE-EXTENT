@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Point to the directory containing your static files
-          path: 'Source Code'
+          path: './Source Code'
 
       - name: Deploy to GitHub Pages
         id: deployment
