@@ -18,19 +18,19 @@
 
 <div align="center">
 
-  [Author](#author) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
 ---
 
-<!-- AUTHOR -->
-<a name="author"></a>
+<!-- AUTHORS -->
 <div align="center">
 
-  ## Author
+  <a name="authors"></a>
+  ## Authors
 
-
+  **Terna Engineering College | Computer Engineering | Batch of 2022**
 
   <table>
   <tr>
@@ -120,8 +120,8 @@ SEARCH-SPACE-EXPLORE-EXTENT/
 ---
 
 <!-- RESULTS -->
-<a name="results-gallery"></a>
-## Results Gallery
+<a name="system-architecture--design-gallery"></a>
+## System Architecture & Design Gallery
 
 <div align="center">
 
@@ -154,7 +154,7 @@ SEARCH-SPACE-EXPLORE-EXTENT/
 >
 > While the project can be executed by opening `index.html` directly, certain features (like embedded maps or external fonts) may require an active internet connection to resolve correctly.
 
-### 2. Setup & Execution
+### 2. Setup & Deployment
 1.  **Clone the Repository**:
     ```bash
     git clone https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT.git
@@ -165,7 +165,9 @@ SEARCH-SPACE-EXPLORE-EXTENT/
 
 ---
 
-<!-- USAGE -->
+<!-- =========================================================================================
+                                     USAGE SECTION
+     ========================================================================================= -->
 ## Usage Guidelines
 
 This repository is openly shared to support learning and knowledge exchange across the academic community.
@@ -187,6 +189,9 @@ The technical specification and metadata provide context for the evolution of st
 
 This repository and all its creative and technical assets are made available under the **MIT License**. See the [LICENSE](LICENSE) file for complete terms.
 
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
 Copyright © 2021 [Amey Thakur](https://github.com/Amey-Thakur)
 
 ---
@@ -196,9 +201,9 @@ Copyright © 2021 [Amey Thakur](https://github.com/Amey-Thakur)
 ## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
-**Historical Context**: First Web Design Project (Personal Initiative)  
-**Academic Affiliation**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
-**University Context**: [University of Mumbai](https://mu.ac.in/)
+**Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University**: [University of Mumbai](https://mu.ac.in/)
 
 This repository is maintained as a permanent technical record of my early explorations in web design. It highlights the use of vanilla HTML/CSS to build interactive, themed digital experiences.
 
@@ -206,11 +211,19 @@ This repository is maintained as a permanent technical record of my early explor
 
 ---
 
+<!-- ACKNOWLEDGMENTS -->
+<a name="acknowledgments"></a>
+## Acknowledgments
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+
+---
+
 <div align="center">
 
   [↑ Back to Top](#readme-top)
 
-  [Author](#author) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
@@ -221,5 +234,7 @@ This repository is maintained as a permanent technical record of my early explor
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
   **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
