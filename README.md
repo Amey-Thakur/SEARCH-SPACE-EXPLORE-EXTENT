@@ -194,7 +194,7 @@ Copyright © 2021 Amey Thakur
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This project features the **Search Space**, a web application developed during my early explorations in web design. It showcases the use of vanilla HTML/CSS to build interactive, themed digital experiences.
+This project features the **Search Space**, a web application developed as my **First Web Design** project during the **Web Development Laboratory** curriculum (`2021-07-04`) amidst the global pandemic. It showcases the use of vanilla HTML/CSS to build interactive, themed digital experiences, marking a foundational milestone in my engineering journey.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
