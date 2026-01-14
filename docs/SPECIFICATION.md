@@ -43,7 +43,7 @@ The visual identity is managed through a centralized stylesheet (`style.css`) in
 
 ### 3. Deployment Layer: GitHub Actions
 Automated deployment ensures that the production site at [GitHub Pages](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/) is always synchronized with the `Source Code` directory.
--   **Staging Workflow**: The `deploy.yml` workflow dynamically stages repository contents into a clean `_site` directory before artifact upload, preventing directory nesting issues.
+-   **Staging Workflow**: The `deploy.yml` workflow dynamically stages repository contents into a clean `_site` directory before project upload, preventing directory nesting issues.
 -   **Security**: Uses standard GitHub environment permissions (`pages: write`, `id-token: write`) for secure deployment.
 
 ---

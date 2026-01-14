@@ -90,7 +90,7 @@ The project explores themes of astronomy and galactic exploration, utilizing a d
 <a name="project-structure"></a>
 ## Project Structure
 
-```bash
+```python
 SEARCH-SPACE-EXPLORE-EXTENT/
 │
 ├── .github/                         # GitHub Actions & Automation
@@ -173,7 +173,7 @@ SEARCH-SPACE-EXPLORE-EXTENT/
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use this project as a reference for foundational web design, CSS layout techniques, and the organization of static web artifacts. It serves as a practical example of a "First Project" workflow.
+Use this project as a reference for foundational web design, CSS layout techniques, and the organization of static web projects. It serves as a practical example of a "First Project" workflow.
 
 **For Educators**  
 This project may be used as a supplementary resource for teaching introductory Web Technologies or Human-Computer Interaction basics. Attribution is appreciated when utilizing content.
@@ -207,11 +207,11 @@ Copyright © 2021 Amey Thakur
 
 This project features the **Search Space**, a web application developed during my early explorations in web design. It showcases the use of vanilla HTML/CSS to build interactive, themed digital experiences.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
-### Acknowledgments
+Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in foundational web technologies. Their expertise in semantic markup and responsive design principles helped me develop a strong understanding of professional front-end development methodologies.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+Special thanks to the mentors and peers whose encouragement and support contributed meaningfully to this early learning endeavor.
 
 ---
 
@@ -223,7 +223,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   <br>
 
-  🔬 **[Web Designing Laboratory](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB)** &nbsp;·&nbsp; 🌌 **[SEARCH-SPACE-EXPLORE-EXTENT](https://github.com/Amey-Thakur/SEARCH-SPACE-EXPLORE-EXTENT)**
+  🔬 **[Web Designing Laboratory](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB)** &nbsp;·&nbsp; 🌌 **[SEARCH-SPACE-EXPLORE-EXTENT](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)**
 
   ---
 
