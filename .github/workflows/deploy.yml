@@ -33,7 +33,7 @@ jobs:
           mkdir -p ./_site
           cp -r "./Source Code"/* ./_site/
 
-      - name: Upload artifact
+      - name: Upload project
         uses: actions/upload-pages-artifact@v3
         with:
           # Point to the staged directory containing static files
