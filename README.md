@@ -200,7 +200,7 @@ This project features the **Search Space**, a web application developed as my **
 
 Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in foundational web technologies. Their expertise in semantic markup and responsive design principles helped me develop a strong understanding of professional front-end development methodologies.
 
-Special thanks to the **mentors and peers** whose encouragement and support contributed meaningfully to this early learning endeavor.
+Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
