@@ -1,8 +1,8 @@
-# Technical Specification: SEARCH-SPACE-EXPLORE-EXTENT
+# Technical Specification: Search Space | Explore Extent
 
 ## Architectural Overview
 
-**SEARCH-SPACE-EXPLORE-EXTENT** is a semantic HTML5 and CSS3 static web application designed for the archival and visualization of space exploration data. The system prioritizes structural clarity, responsive design, and accessible content delivery without the need for client-side JavaScript, ensuring high performance and long-term compatibility.
+**Search Space | Explore Extent** is a semantic HTML5 and CSS3 static web application designed for the archival and visualization of space exploration data. The system prioritizes structural clarity, responsive design, and accessible content delivery without the need for client-side JavaScript, ensuring high performance and long-term compatibility.
 
 ### Process & Interaction Flow Diagram
 
