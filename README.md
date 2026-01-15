@@ -162,13 +162,13 @@ SEARCH-SPACE-EXPLORE-EXTENT/
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use this project as a reference for foundational web design, CSS layout techniques, and the organization of static web projects. It serves as a practical example of a "First Project" workflow.
+Use this project as reference material for understanding foundational web design, CSS layout techniques, and the organization of static web projects. The source code is available for study to facilitate self-paced learning and exploration of responsive design patterns.
 
 **For Educators**  
-This project may be used as a supplementary resource for teaching introductory Web Technologies or Human-Computer Interaction basics. Attribution is appreciated when utilizing content.
+This project may serve as a practical lab example or supplementary teaching resource for Web Designing Laboratory course (`CSL504`). Attribution is appreciated when utilizing content.
 
 **For Researchers**  
-The technical specification and metadata provide insights into the implementation of foundational web design architectures and their practical application in cosmic-themed responsive layouts.
+The documentation and design approach may provide insights into academic project structuring and the implementation of foundational web design architectures.
 
 ---
 
