@@ -89,6 +89,8 @@ SEARCH-SPACE-EXPLORE-EXTENT/
 ├── docs/                            # Technical Documentation
 │   └── SPECIFICATION.md             # Architecture & Design Specification
 │
+├── screenshots/                     # Project Visual Archival
+│
 ├── Source Code/                     # Primary Application Layer
 │   ├── css/                         # Design System & Stylesheets
 │   │   └── style.css                # Global Visual Definition
