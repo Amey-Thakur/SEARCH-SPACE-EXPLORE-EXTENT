@@ -155,9 +155,9 @@ SEARCH-SPACE-EXPLORE-EXTENT/
     Open `Source Code/index.html` in your preferred browser.
 
 > [!TIP]
-> **Cosmic Web Architecture | Search Space**
+> **Search Space | Explore Extent**
 >
-> Experience the high-fidelity web simulation of this foundational cosmic exploration project, featuring semantic HTML5 layouts, responsive CSS3 grids, and a curated galactic aesthetic optimized for research and architectural study.
+> Experience the high-fidelity web simulation of this milestone cosmic exploration project, marking the inception of my journey as my first web design project. It features semantic HTML5 and curated galactic aesthetics optimized for research and architectural study.
 >
 > [**Launch Live Demo**](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/)
 
