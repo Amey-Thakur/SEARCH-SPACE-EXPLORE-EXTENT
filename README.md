@@ -1,6 +1,5 @@
 <div align="center">
 
-  <a name="readme-top"></a>
   # Search Space | Explore Extent
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
@@ -46,6 +45,16 @@
 **Search Space | Explore Extent** represents a pivotal milestone as my **First Web Design Project**. Developed during the early phases of my engineering journey, this project focuses on the practical application of core web technologies, HTML5 and CSS3, to create a visually engaging and responsive multi-page website.
 
 The project explores themes of astronomy and galactic exploration, utilizing a dark-themed aesthetic with cosmic imagery, vibrant accents, and smooth interactive elements to enhance the user experience.
+
+### Resources
+
+| # | Resource | Description |
+|---|---|---|
+| 1 | [**Live Website**](https://amey-thakur.github.io/SEARCH-SPACE-EXPLORE-EXTENT/) | The site as published |
+| 2 | [**Source Code**](Source%20Code/) | HTML, CSS and image assets |
+| 3 | [**Technical Specification**](docs/SPECIFICATION.md) | Structure and design specification |
+| 4 | [**Screenshots**](screenshots/) | Every page as it renders |
+| 5 | [**Web Designing Lab**](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | Academic repository for Web Designing |
 
 > [!TIP]
 > **Design Consistency**
@@ -207,6 +216,8 @@ This project features the **Search Space**, a web application developed as my **
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
+### Acknowledgments
+
 Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in foundational web technologies. Their expertise in semantic markup and responsive design principles helped me develop a strong understanding of professional front-end development methodologies.
 
 Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
@@ -215,7 +226,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
 <div align="center">
 
-  [↑ Back to Top](#readme-top)
+  [↑ Back to Top](#search-space--explore-extent)
 
   [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
